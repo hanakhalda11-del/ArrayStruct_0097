@@ -20,8 +20,4 @@ int main()
     cout << "umur : ";
     cin >> mhs.umur;
     cout << endl;
-// menampilkan isi object
-    cout << "nama : " << mhs.nama <<endl;
-    cout << "alamat : " << mhs.alamat <<endl;
-    cout << "umur : " << mhs.umur <<endl;
 }
