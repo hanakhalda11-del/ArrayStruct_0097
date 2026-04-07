@@ -47,9 +47,5 @@ int main()
 
     cout <<endl;
 
-// menampilkan datamu dg perulangan for
-    for (int i = 0; i <= 4; i++)
-   {
-    cout << "data ke - " << i + 1 << " : " << datamu[i] <<endl;
-   }
+
 }
