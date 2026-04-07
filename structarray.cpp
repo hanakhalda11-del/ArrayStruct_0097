@@ -33,4 +33,12 @@ int main()
     }
 cout <<endl;
 
+// menampilkan isi object
+    for (int i = 0; i <= 2; i++)
+    {
+        cout << "nama : " << mhs[i].nama <<endl;
+        cout << "desa : " << mhs[i].alamat.desa <<endl;
+        cout << "kota : " << mhs[i].alamat.kota <<endl;
+        cout << "umur : " << mhs[i].umur <<endl;
+    }
 }
